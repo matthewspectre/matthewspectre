@@ -33,3 +33,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/matthewspectre/matthewspectre/output/snake.svg" alt="Snake animation" />
+
+###
